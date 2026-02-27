@@ -1,4 +1,4 @@
-/*import "./ProfileCard.css";
+import "./ProfileCard.css";
 
 export default function ProfileCard(props) {
   return (
@@ -12,5 +12,5 @@ export default function ProfileCard(props) {
       <p>{props.bio}</p>
     </div>
   );
-} */
+} 
 
